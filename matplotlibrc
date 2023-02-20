@@ -1,0 +1,18 @@
+axes.labelsize     : 8
+axes.titlesize     : 8
+figure.titlesize   : 14
+legend.fontsize    : 8
+savefig.bbox       : tight
+xtick.labelsize    : 8
+ytick.labelsize    : 8
+
+font.cursive       : Zapf Chancery
+font.family        : lmodern
+font.monospace     : Courier, Computer Modern Typewriter
+font.sans-serif    : Helvetica, Avant Garde, Computer Modern Sans serif
+font.serif         : Times, Palatino, New Century Schoolbook, Bookman, Computer Modern Roman
+font.size          : 10
+
+pgf.rcfonts        : False
+
+text.usetex        : true

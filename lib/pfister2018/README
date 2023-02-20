@@ -1,0 +1,30 @@
+# Copyright (c) 2017  
+# Niklas Pfister [pfister@stat.math.ethz.ch]
+# Jonas Peters [jonas.peters@math.ku.dk]
+# All rights reserved.  See the file COPYING for license terms. 
+
+This code is supplementary material for 
+N. Pfister, P. B\"uhlmann, B. Sch\:olkopf, J. Peters: "Kernel-based Tests for Joint Independence"
+
+It is a preliminary version and not well documented yet. If you use the code please cite the following two papers:
+- N. Pfister, P. B\"uhlmann, B. Sch\:olkopf, J. Peters: "Kernel-based Tests for Joint Independence" (ArXiv)
+- J. Peters, J. M. Mooij, D. Janzing, B. Sch\"olkopf: "Causal Discovery with Continuous Additive Noise Models" (JMLR)
+
+
+All level simulations are given in the folder
+"YOURPATH/level_analysis"
+
+All power simulations are given in the folder
+"YOURPATH/power_analysis"
+
+The runtime experiment is given in the folder
+"YOURPATH/runtime"
+
+The causality example is given in the folder
+"YOURPATH/causality_example"
+
+Required functions are given in the folder
+"YOURPATH/extra"
+
+
+See COPYING for license terms.
