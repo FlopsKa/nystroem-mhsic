@@ -1,3 +1,10 @@
+General
+=======
+
+This repository hosts the code for the article
+
+- Florian Kalinke, Zoltán Szabó. Proceedings of the Thirty-Ninth Conference on Uncertainty in Artificial Intelligence, PMLR 216:1005-1015, 2023. [Link.](https://proceedings.mlr.press/v216/kalinke23a.html)
+
 Instructions for Reproducing the Experiments
 ============================================
 
